@@ -1,3 +1,3 @@
-# street_perception_of_safety
+# Streetception
 
-How to capture perception of safety in urban paths?
+How to capture perceived qualities along of city streets?
