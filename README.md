@@ -5,6 +5,7 @@ We conducted a study with 403 participants and asked them to virtually navigate 
 
 In this repository we share the code we used for the analysis of the data used in the paper "Is it safe to be attractive? Disentangling the influence of streetscape features on the perceived safety and attractiveness of city streets".
 
+## Example
 <p align="center">
     <img src="https://github.com/MiliasV/streetception/blob/main/img_gh/path_compl.png" width="70%">
 </p>
