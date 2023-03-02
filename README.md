@@ -12,6 +12,8 @@ City streets that feel safe and attractive motivate active travel behaviour and 
 ## Example
 <p align="center">
     <img src="https://github.com/MiliasV/streetception/blob/main/img_gh/path_compl.png" width="70%">
+    <img src="https://github.com/MiliasV/streetception/blob/main/img_gh/venn.png" width="20%">
+
 </p>
 
 ## Notebooks
