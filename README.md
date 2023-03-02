@@ -1,9 +1,13 @@
 # Streetception
-How safe or attractive do different people perceive streets to be and why?
+### How safe or attractive do different people perceive streets to be and why?
 
-We conducted a study with 403 participants and asked them to virtually navigate city streets in Frankfurt, Germany, through a sequence of street-level images, rate locations based on how safe or attractive they perceive them to be, and explain their ratings in their own words. Our results contribute new insights regarding the key similarities and differences between the factors influencing perceived safety and attractiveness.
+#### In this repository we share the code we used for the analysis of the data used in the paper "Is it safe to be attractive? Disentangling the influence of streetscape features on the perceived safety and attractiveness of city streets".
 
-In this repository we share the code we used for the analysis of the data used in the paper "Is it safe to be attractive? Disentangling the influence of streetscape features on the perceived safety and attractiveness of city streets".
+
+City streets that feel safe and attractive motivate active travel behaviour and promote people’s well-being. However, determining what makes a street safe and attrac- tive is a challenging task because subjective qualities of the streetscape are difficult to quantify. Existing evidence typically focuses on how different street features influ- ence perceived safety or attractiveness, but little is known about what influences both. To fill this knowledge gap, we developed a crowdsourcing tool and conducted a study with 403 participants, who were asked to virtually navi- gate city streets in Frankfurt, Germany, through a sequence of street-level images, rate locations based on perceived safety and attractiveness, and explain their ratings. Our re- sults contribute new insights regarding the key similari- ties and differences between the factors influencing per- ceived safety and attractiveness. We show that the presence of human activity is strongly related to perceived safety, whereas attractiveness is influenced primarily by aesthetic qualities, as well as the number and type of amenities along a street. Moreover, we demonstrate that the presence of construction sites and underpasses has a disproportion- ately negative impact on perceived safety and attractive- ness, outweighing the influence of any other features. We use the results to make evidence-informed recommenda- tions for designing safer and more attractive streets that encourage active travel modes and promote well-being.![image](https://user-images.githubusercontent.com/14966836/222508094-26efe408-f1d0-47ae-aa9c-6d0d73ade6a2.png)
+
+
+
 
 ## Example
 <p align="center">
