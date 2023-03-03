@@ -14,6 +14,11 @@ City streets that feel safe and attractive motivate active travel behaviour and 
 | :---        |    :----   |          :--- |            :--- |    :--- |    :--- |  :--- | 
 | EPSG:4326   | id of the path this location belongs to | id of the image  | order of location in the path | Average, Stddev, and difference of the safety and attractiveness ratings collected for this location (number) | Reasons to explain the safety and attrractiveness ratings the participants provided (text input)| Number and average ratings of safety and attractiveness the participants provided per gender and age group| 
 
+#### text_attr_peruser.txt, text_unattr_peruser.txt, text_safe_peruser.txt, text_unsafe_peruser.txt
+All reasons participants provided to explain the ratings of locations with an average rating of safety or (attractiveness):
+* <= 2.5 (text_unattr_peruser.txt, text_unsafe_peruser.txt)
+* >=3.5 (text_attr_peruser.txt, text_safe_peruser.txt)
+
 
 ## Example
 <p align="center">
