@@ -3,9 +3,9 @@
 
 #### In this repository we share the code and data we collected and analysed for the paper "Is it safe to be attractive? Disentangling the influence of streetscape features on the perceived safety and attractiveness of city streets".
 
-The data contain  ratings of perceived safety and attractiveness (using a 5-point Likert scale) coming from 403 participants who were asked to virtually navi- gate city streets in Frankfurt, Germany, through a sequence of street-level images. Moreover it contains their explanations of the ratings (in their own words).
+The data contain  ratings of perceived safety and attractiveness (using a 5-point Likert scale) coming from 403 participants who were asked to virtually navigate city streets in Frankfurt, Germany, through a sequence of street-level images. Moreover it contains their explanations of the ratings (in their own words).
 
-In total we have collected data for 753 lcocations. 
+In total we have collected data for 753 locations. 
 In particular:
 * 7989 rating pairs of perceived safety and attractiveness
 * 19114 keywords used to explain the safety ratings
@@ -18,7 +18,7 @@ In particular:
 ### [data_per_location.csv]
 | geometry_text       | path_id | image_point_id | order_id | {safety,attractiveness}_{avg,stddev,difff}| {safety,attractiveness}_reason  | {male, female, age_19_39_safety, age_40_59_safety, age_60_plus_safety}_{avg, count}
 | :---        |    :----   |          :--- |            :--- |    :--- |    :--- |  :--- | 
-| EPSG:4326   | id of the path this location belongs to | id of the image  | order of location in the path | Average, Stddev, and difference of the safety and attractiveness ratings collected for this location (number) | Reasons to explain the safety and attrractiveness ratings the participants provided (text input)| Number and average ratings of safety and attractiveness the participants provided per gender and age group| 
+| EPSG:4326   | id of the path this location belongs to | id of the image  | order of location in the path | Average, Stddev, and difference of the safety and attractiveness ratings collected for this location (number) | Reasons to explain the safety and attractiveness ratings the participants provided (text input)| Number and average ratings of safety and attractiveness the participants provided per gender and age group| 
 
 ### [text_attr_peruser.txt, text_unattr_peruser.txt, text_safe_peruser.txt, text_unsafe_peruser.txt]
 All reasons participants provided to explain the ratings of locations with an average rating of safety or (attractiveness):
