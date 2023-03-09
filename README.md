@@ -13,6 +13,8 @@ In particular:
 
 
 ## Data
+A DOI to the data can be found here: https://doi.org/10.5281/zenodo.7712811
+
 ### Structure of the data
 
 ### [data_per_location.csv]
