@@ -3,7 +3,7 @@
 
 #### In this repository we share the code and data we collected and analysed for the paper "Is it safe to be attractive? Disentangling the influence of streetscape features on the perceived safety and attractiveness of city streets".
 
-The data contain  ratings of perceived safety and attractiveness (using a 5-point Likert scale) coming from 403 participants who were asked to virtually navigate city streets in Frankfurt, Germany, through a sequence of street-level images. Moreover it contains their explanations of the ratings (in their own words).
+The data contain  ratings of perceived safety and attractiveness (1-5) coming from 403 participants who were asked to virtually navigate city streets in Frankfurt, Germany, through a sequence of street-level images. Moreover it contains their explanations of the ratings (in their own words).
 
 In total we have collected data for 753 locations. 
 In particular:
