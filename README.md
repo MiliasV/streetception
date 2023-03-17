@@ -23,7 +23,7 @@ A DOI to the data can be found here: https://doi.org/10.5281/zenodo.7712811
 | EPSG:4326   | id of the path this location belongs to | id of the image  | order of location in the path | Average, Stddev, and difference of the safety and attractiveness ratings collected for this location (number) | Reasons to explain the safety and attractiveness ratings the participants provided (text input)| Number and average ratings of safety and attractiveness the participants provided per gender and age group| 
 
 ### [text_attr_peruser.txt, text_unattr_peruser.txt, text_safe_peruser.txt, text_unsafe_peruser.txt]
-All reasons participants provided to explain the ratings of locations with an average rating of safety or (attractiveness):
+All reasons participants provided to explain the ratings of locations with a rating of safety or (attractiveness):
 * rating <= 2.5 (text_unattr_peruser.txt, text_unsafe_peruser.txt)
 * rating >=3.5 (text_attr_peruser.txt, text_safe_peruser.txt)
 
