@@ -11,6 +11,8 @@ In particular:
 * 19114 keywords used to explain the safety ratings
 * 18232 keywords used to explain the attractiveness ratings
 
+## Crowdsourcing Tool
+The crowdsourcing tool can be found here https://github.com/shahinsharifi/subjectivity
 
 ## Data
 A DOI to the data can be found here: https://doi.org/10.5281/zenodo.7712811
