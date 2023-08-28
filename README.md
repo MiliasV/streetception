@@ -1,7 +1,7 @@
 # Streetception
 ### How safe or attractive do different people perceive streets to be and why?
 
-#### In this repository we share the code and data we collected and analysed for the paper "Is it safe to be attractive? Disentangling the influence of streetscape features on the perceived safety and attractiveness of city streets".
+#### In this repository we share the code and data we collected and analysed for the paper "Is it safe to be attractive? Disentangling the influence of streetscape features on the perceived safety and attractiveness of city streets" (https://doi.org/10.5194/agile-giss-4-8-2023).
 
 The data contain  ratings of perceived safety and attractiveness (1-5) coming from 403 participants who were asked to virtually navigate city streets in Frankfurt, Germany, through a sequence of street-level images. Moreover it contains their explanations of the ratings (in their own words).
 
@@ -11,6 +11,8 @@ In particular:
 * 19114 keywords used to explain the safety ratings
 * 18232 keywords used to explain the attractiveness ratings
 
+## The Paper
+The paper can be found here: https://doi.org/10.5194/agile-giss-4-8-2023
 ## Crowdsourcing Tool
 The crowdsourcing tool can be found here https://github.com/shahinsharifi/subjectivity
 
